@@ -20,7 +20,7 @@ Recode ORG
 earlier this week DATE
 ```
 
-SpeCy has correctly identified the words in the text:
+SpaCy has correctly identified the words in the text:
 
 ```
 "When Sebastian Thrun started working on self-driving cars at "
