@@ -2,7 +2,7 @@
 
 # 斯帕西
 
-> spaCy is a free open-source library for Natural Language Processing in Python. It features NER, POS tagging, dependency parsing, word vectors and more.
+> spaCy 是一个免费的 Python 自然语言处理开源库。它具有 NER、POS 标记、依存分析、词向量等功能。
 >
 > 基于“SpaCy”<https://spacy.io/>
 
