@@ -1,8 +1,10 @@
-存储库名称
+稀疏的
 
-# 存储库名称
+# 斯帕西
 
-基于“ABC”<https://www.abc.com/>
+> spaCy is a free open-source library for Natural Language Processing in Python. It features NER, POS tagging, dependency parsing, word vectors and more.
+>
+> 基于“SpaCy”<https://spacy.io/>
 
 ## 100 - 简介
 
