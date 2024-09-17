@@ -53,3 +53,26 @@ Windows:
 ```
 
 Your shell prompt will change to show the name of the activated environment.
+
+To exit the environment use: ```exit```
+
+## Install SpaCy
+
+Within the activated environment, use the following command to install spaCy:
+
+```
+$ pip install spaCy
+```
+
+Alternatively, add ```spaCy``` to a requirements.txt file.
+
+```
+spacy>=2.1.2
+```
+app/requirements.txt
+
+And install it like:
+
+```
+$ pip install -r requirements.txt
+```
