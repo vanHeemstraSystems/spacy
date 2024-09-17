@@ -76,3 +76,11 @@ And install it like:
 ```
 $ pip install -r requirements.txt
 ```
+
+## Download and install languages
+
+Within the activated environment, use the following command to install spaCy's language ```English```:
+
+```
+$ python -m spacy download en_core_web_sm
+```
